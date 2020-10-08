@@ -11,7 +11,7 @@ pipeline {
                 }
             }
             steps {
-                sh 'echo "I am building!"'
+                sh 'echo "I am building PROD!"'
             }
         }
     }
